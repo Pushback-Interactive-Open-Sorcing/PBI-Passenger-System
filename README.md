@@ -3,8 +3,12 @@ Hi Guys, this is our first open-sourced system. We look forward to sharing many 
 
 # Features
 
-- Passengers spawn when you want just by a simple ```lua
-- require()```
+- Passengers spawn when you want just by a simple ```require()```
+- Passengers are the clients players friend.
+- Passengers can spawn with bags.
+- Client Sided
+- Passengers take the most direct route.
+
 
 
 ### Licensing:
