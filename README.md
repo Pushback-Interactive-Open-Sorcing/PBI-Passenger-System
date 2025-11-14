@@ -3,7 +3,8 @@ Hi Guys, this is our first open-sourced system. We look forward to sharing many 
 
 # Features
 
-- Passengers spawn when you want just by a simple ```lua require()```
+- Passengers spawn when you want just by a simple ```lua
+- require()```
 
 
 ### Licensing:
