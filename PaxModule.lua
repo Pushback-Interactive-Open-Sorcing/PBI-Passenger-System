@@ -1,4 +1,4 @@
--- [[
+--[[
 INSTRUCTIONS:
 
 -- Place in replicated storage.
